@@ -1,3 +1,4 @@
+#ifndef UI_SOFTMASK_INCLUDED
 #define UI_SOFTMASK_INCLUDED
 
 sampler2D _SoftMaskTex;
